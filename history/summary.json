@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nb.p3.csgroup.space.ico",
     "slug": "daskhub",
     "status": "down",
-    "uptime": "11.19%",
-    "uptimeDay": "11.19%",
-    "uptimeWeek": "11.19%",
-    "uptimeMonth": "11.19%",
-    "uptimeYear": "11.19%",
+    "uptime": "0.99%",
+    "uptimeDay": "0.99%",
+    "uptimeWeek": "0.99%",
+    "uptimeMonth": "0.99%",
+    "uptimeYear": "0.99%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-25": 0
+      "2022-11-25": 2
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/feature.p3.csgroup.space.ico",
     "slug": "feature-server",
     "status": "down",
-    "uptime": "3.31%",
-    "uptimeDay": "3.31%",
-    "uptimeWeek": "3.31%",
-    "uptimeMonth": "3.31%",
-    "uptimeYear": "3.31%",
+    "uptime": "0.51%",
+    "uptimeDay": "0.51%",
+    "uptimeWeek": "0.51%",
+    "uptimeMonth": "0.51%",
+    "uptimeYear": "0.51%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-25": 0
+      "2022-11-25": 2
     }
   },
   {
@@ -153,18 +153,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/processing.p3.csgroup.space.ico",
     "slug": "spring-cloud-dataflow",
     "status": "down",
-    "uptime": "10.55%",
-    "uptimeDay": "10.55%",
-    "uptimeWeek": "10.55%",
-    "uptimeMonth": "10.55%",
-    "uptimeYear": "10.55%",
+    "uptime": "0.83%",
+    "uptimeDay": "0.83%",
+    "uptimeWeek": "0.83%",
+    "uptimeMonth": "0.83%",
+    "uptimeYear": "0.83%",
     "time": 387,
     "timeDay": 387,
     "timeWeek": 387,
     "timeMonth": 387,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2022-11-25": 0
+      "2022-11-25": 2
     }
   },
   {
