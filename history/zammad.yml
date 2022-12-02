@@ -1,7 +1,7 @@
 url: help.p3.csgroup.space
-status: up
-code: 200
-responseTime: 684
-lastUpdated: 2022-12-01T23:15:08.362Z
+status: down
+code: 503
+responseTime: 1127
+lastUpdated: 2022-12-02T13:54:07.635Z
 startTime: Fri Nov 25 2022 17:33:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
