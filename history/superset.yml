@@ -1,7 +1,7 @@
 url: https://superset.p3.csgroup.space
-status: up
-code: 200
-responseTime: 1760
-lastUpdated: 2023-01-20T23:13:27.743Z
+status: down
+code: 503
+responseTime: 853
+lastUpdated: 2023-01-21T13:09:19.748Z
 startTime: Fri Nov 25 2022 17:33:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
