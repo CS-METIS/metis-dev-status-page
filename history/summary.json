@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 415,
     "dailyMinutesDown": {
-      "2023-03-20": 407,
+      "2023-03-20": 418,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
@@ -278,7 +278,7 @@
     "timeMonth": 0,
     "timeYear": 835,
     "dailyMinutesDown": {
-      "2023-03-20": 407,
+      "2023-03-20": 418,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
@@ -380,11 +380,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.p3.csgroup.space.ico",
     "slug": "keycloak",
     "status": "up",
-    "uptime": "91.80%",
+    "uptime": "91.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.10%",
     "uptimeMonth": "98.97%",
-    "uptimeYear": "91.80%",
+    "uptimeYear": "91.81%",
     "time": 126,
     "timeDay": 129,
     "timeWeek": 131,
@@ -457,16 +457,16 @@
     "url": "https://chat.p3.csgroup.space",
     "icon": "https://icons.duckduckgo.com/ip3/chat.p3.csgroup.space.ico",
     "slug": "mattermost",
-    "status": "up",
-    "uptime": "71.45%",
-    "uptimeDay": "3.50%",
-    "uptimeWeek": "2.65%",
-    "uptimeMonth": "11.22%",
-    "uptimeYear": "71.45%",
+    "status": "down",
+    "uptime": "71.46%",
+    "uptimeDay": "4.30%",
+    "uptimeWeek": "2.76%",
+    "uptimeMonth": "11.24%",
+    "uptimeYear": "71.46%",
     "time": 670,
-    "timeDay": 595,
-    "timeWeek": 535,
-    "timeMonth": 519,
+    "timeDay": 602,
+    "timeWeek": 538,
+    "timeMonth": 520,
     "timeYear": 670,
     "dailyMinutesDown": {
       "2023-03-20": 387,
@@ -504,8 +504,7 @@
       "2023-02-16": 1416,
       "2023-02-15": 1385,
       "2023-02-14": 738,
-      "2023-02-12": 17,
-      "2023-02-11": 12
+      "2023-02-12": 17
     }
   },
   {
@@ -525,7 +524,7 @@
     "timeMonth": 632,
     "timeYear": 651,
     "dailyMinutesDown": {
-      "2023-03-20": 407,
+      "2023-03-20": 419,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
@@ -592,7 +591,7 @@
     "timeMonth": 0,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2023-03-20": 407,
+      "2023-03-20": 419,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
@@ -727,7 +726,7 @@
     "timeMonth": 490,
     "timeYear": 1267,
     "dailyMinutesDown": {
-      "2023-03-20": 407,
+      "2023-03-20": 419,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
@@ -834,7 +833,7 @@
     "timeMonth": 378,
     "timeYear": 846,
     "dailyMinutesDown": {
-      "2023-03-20": 407,
+      "2023-03-20": 419,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
