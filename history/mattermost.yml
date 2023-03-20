@@ -1,7 +1,7 @@
 url: https://chat.p3.csgroup.space
-status: up
-code: 200
-responseTime: 516
-lastUpdated: 2023-03-20T19:27:45.226Z
+status: down
+code: 503
+responseTime: 650
+lastUpdated: 2023-03-20T19:39:29.543Z
 startTime: Fri Nov 25 2022 17:33:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
