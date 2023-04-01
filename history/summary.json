@@ -16,7 +16,7 @@
     "timeMonth": 3023,
     "timeYear": 1284,
     "dailyMinutesDown": {
-      "2023-04-01": 1168,
+      "2023-04-01": 1180,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
@@ -294,7 +294,7 @@
     "timeMonth": 0,
     "timeYear": 835,
     "dailyMinutesDown": {
-      "2023-04-01": 1168,
+      "2023-04-01": 1180,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
@@ -489,16 +489,16 @@
     "url": "https://chat.p3.csgroup.space",
     "icon": "https://icons.duckduckgo.com/ip3/chat.p3.csgroup.space.ico",
     "slug": "mattermost",
-    "status": "up",
-    "uptime": "74.69%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "3.29%",
-    "uptimeMonth": "1.47%",
-    "uptimeYear": "74.69%",
+    "status": "down",
+    "uptime": "74.76%",
+    "uptimeDay": "0.84%",
+    "uptimeWeek": "3.41%",
+    "uptimeMonth": "1.50%",
+    "uptimeYear": "74.76%",
     "time": 641,
-    "timeDay": 588,
-    "timeWeek": 516,
-    "timeMonth": 520,
+    "timeDay": 511,
+    "timeWeek": 512,
+    "timeMonth": 519,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2023-04-01": 1168,
@@ -534,7 +534,7 @@
       "2023-03-02": 1379,
       "2023-03-01": 1409,
       "2023-02-28": 1361,
-      "2023-02-27": 642
+      "2023-02-27": 523
     }
   },
   {
@@ -554,7 +554,7 @@
     "timeMonth": 622,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2023-04-01": 1168,
+      "2023-04-01": 1180,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
@@ -633,7 +633,7 @@
     "timeMonth": 0,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2023-04-01": 1168,
+      "2023-04-01": 1180,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
@@ -780,7 +780,7 @@
     "timeMonth": 504,
     "timeYear": 1201,
     "dailyMinutesDown": {
-      "2023-04-01": 1168,
+      "2023-04-01": 1180,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
@@ -851,11 +851,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/topaz.p3.csgroup.space.ico",
     "slug": "topaz",
     "status": "up",
-    "uptime": "92.77%",
+    "uptime": "92.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.44%",
-    "uptimeYear": "92.77%",
+    "uptimeYear": "92.78%",
     "time": 532,
     "timeDay": 633,
     "timeWeek": 540,
@@ -900,7 +900,7 @@
     "timeMonth": 359,
     "timeYear": 810,
     "dailyMinutesDown": {
-      "2023-04-01": 1168,
+      "2023-04-01": 1180,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
