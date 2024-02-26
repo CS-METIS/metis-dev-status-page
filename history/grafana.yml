@@ -1,7 +1,7 @@
 url: https://grafana.p3.csgroup.space
-status: down
-code: 503
-responseTime: 998
-lastUpdated: 2024-02-26T08:31:42.400Z
+status: up
+code: 200
+responseTime: 1934
+lastUpdated: 2024-02-26T09:28:25.397Z
 startTime: 2022-11-25T17:33:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
